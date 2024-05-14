@@ -13,3 +13,29 @@ Here, the code substitutes every pixel of the image with another pixel (which is
 
 # Reports
 Chaotic lightweight Cryptosystem for Image Encryption [Here]
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/fayezattyeh/ChaoticEncryption
+```
+
+
+
+Install dependencies
+
+```bash
+  pip install numpy
+```
+
+```bash
+  pip install matplotlib
+```
+
+Run the code
+
+```bash
+  Image path
+```
