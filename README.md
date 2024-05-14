@@ -35,7 +35,7 @@ Install dependencies
 ```
 
 Run the code
-
+Use the image path
 ```bash
-  Image path
+  "C:\Users\USER\Images\camera.jfif"
 ```
