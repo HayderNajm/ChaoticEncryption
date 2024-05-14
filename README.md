@@ -39,3 +39,4 @@ Use the image path
 ```bash
   "C:\Users\USER\Images\camera.jfif"
 ```
+
