@@ -12,7 +12,7 @@ Here, the code substitutes every pixel of the image with another pixel (which is
 
 
 # Reports
-Chaotic lightweight Cryptosystem for Image Encryption [Here]
+Chaotic lightweight Cryptosystem for Image Encryption [Here](https://acrobat.adobe.com/id/urn:aaid:sc:ap:80b872ce-34a5-47d0-8aa3-1d7d50fef164)
 
 ## Run Locally 👩‍💻
 
